@@ -1,0 +1,1 @@
+cout<<"How many lines do you want to print?"<<endl;
