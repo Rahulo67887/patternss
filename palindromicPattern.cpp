@@ -18,6 +18,7 @@ int main(){
             cout<<k++<<" ";
         }
         cout<<endl;
-    }
+    }//sajkcbjhj
+
     return 0;
 }
